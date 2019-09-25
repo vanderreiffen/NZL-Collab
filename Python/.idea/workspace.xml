@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66017db3-b438-4224-abad-38b233bd3d23" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="process_1566078.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/process_1566078.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>14143497</find>
+      <find>WEBS</find>
+      <find>14143527</find>
+      <find>res = requests.get(url, headers=headers)</find>
+      <find>14143677</find>
+      <find>14143707</find>
+      <find>glob</find>
+      <find>14180597</find>
+      <find>SFilename</find>
+      <find>14148507</find>
+      <find>DictFrmObs</find>
+      <find>obsfullpath</find>
+      <find>E</find>
+      <find>replace</find>
+      <find>1815948</find>
+      <find>SSS</find>
+      <find>1488898</find>
+      <find>1488908</find>
+      <find>1489048</find>
+      <find>1489528</find>
+      <find>dictscdate</find>
+      <find>range</find>
+      <find>1489578</find>
+      <find>1489758</find>
+      <find>1815958</find>
+      <find>1486218</find>
+      <find>1486318</find>
+      <find>1486388</find>
+      <find>1660438</find>
+      <find>url</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>14143777</replace>
+      <replace>14143797</replace>
+      <replace>14143817</replace>
+      <replace>14180597</replace>
+      <replace>14180607</replace>
+      <replace>14180617</replace>
+      <replace>14180627</replace>
+      <replace>14180637</replace>
+      <replace>14180647</replace>
+      <replace>14180677</replace>
+      <replace>14143887</replace>
+      <replace>14180667</replace>
+      <replace>14148497</replace>
+      <replace>14148507</replace>
+      <replace>1660438</replace>
+      <replace>14519627</replace>
+      <replace>1660448</replace>
+      <replace>1815958</replace>
+      <replace>1488898</replace>
+      <replace>1488908</replace>
+      <replace>1489048</replace>
+      <replace>1489528</replace>
+      <replace>1489578</replace>
+      <replace>1489758</replace>
+      <replace>1489778</replace>
+      <replace>1486218</replace>
+      <replace>1486318</replace>
+      <replace>1486388</replace>
+      <replace>1486398</replace>
+      <replace>1486438</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143597.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143677.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143707.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143727.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143757.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143777.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143797.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143817.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1657908.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180597.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180607.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180617.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180627.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180637.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180647.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180677.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143887.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/TEST-DOS/process_14468737.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143187.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14180667.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14148497.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14148507.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14468737.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/TEST-DOS/process_14144227.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/TEST-DOS/process_14146547.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143947.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14162967.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14143167.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14144197.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14146667.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1660438.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14519627.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1660448.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1656158.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_14401717.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1815948.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1815958.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1488898.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1488908.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1489048.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1489528.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1489578.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1489758.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1489778.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1486218.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1486318.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1486388.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1486398.py" />
+        <option value="$PROJECT_DIR$/SGP/Python/process_1486438.py" />
+        <option value="$PROJECT_DIR$/process_13398737.py" />
+        <option value="$PROJECT_DIR$/process_1566078.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-243" />
+    <option name="y" value="-4" />
+    <option name="width" value="1278" />
+    <option name="height" value="1022" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="1486398&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1486398.py&#10;1486388&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1486388.py&#10;1486218&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1486218.py&#10;1486438&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1486438.py&#10;14202947&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/DOS/Table 1 Business Receips Index (2014=100)/SGP-DOS-14202947.xlsx&#10;1660438 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1660438.py&#10;1486318&#9;null&#9;null&#10;1815958&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1815958.py&#10;1489778&#9;null&#9;null&#10;1489578&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1489578.py&#10;1489758&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1489758.py&#10;1489528&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1489528.py&#10;1488908&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1488908.py&#10;1489048 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1489048.py&#10;1489048&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1489048.py&#10;1489528 &#9;null&#9;null&#10;1488898&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1488898.py&#10;1815948&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1815948.py&#10;1488908 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1488908.py&#10;14401717&#9;null&#9;null&#10;1656158&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1656158.py&#10;1656158 &#9;null&#9;null&#10;14146667&#9;null&#9;null&#10;14144197&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14144197.py&#10;14143167&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14143167.py&#10;14162967 &#9;null&#9;null&#10;14144197 &#9;null&#9;null&#10;14143947 &#9;null&#9;null&#10;14148507&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14148507.py&#10;14162747&#9;null&#9;null&#10;14143497 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14143497.py&#10;14146627&#9;null&#9;null&#10;14144267&#9;null&#9;null&#10;14146547&#9;null&#9;null&#10;14143947&#9;null&#9;null&#10;14144227&#9;null&#9;null&#10;14148507 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14148507.py&#10;14148497&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14148497.py&#10;14180667&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14180667.py&#10;14143817&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14143817.py&#10;14143187&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14143187.py&#10;14143177 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14143177.py&#10;14143887 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14143887.py&#10;14180597 &#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14180597.py&#10;14180607 &#9;null&#9;null&#10;1656628&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_1656628.py&#10;14180597&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14180597.py&#10;14143757&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/DOS/Turnover On The Singapore Exchange, (Equities), (Value) - Catalist, Monthly/SGP-DOS-14143757.xlsx&#10;14143727&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/process_14143727.py&#10;14143577&#9;FILE&#9;file://C:/MACRO/MACROS IN PROGRESS/PYTHON/SGP/Python/DOS/Revenue And Expenditure Accounts Of Life Insurance Funds, Annual/SGP-DOS-14143577.xlsx" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\MACRO\MACROS IN PROGRESS\PYTHON\SGP\Python" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.master_main">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\kcachero\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Config/master_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="master_main" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Config/master_main.py" />
+      <option name="PARAMETERS" value="&quot;100&quot; &quot;1566078&quot; &quot;kcachero@isimarkets.com&quot; &quot;&quot; &quot;-&quot; &quot;-&quot; &quot;-&quot; &quot;NZL&quot;" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_1430928" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" temporary="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MAC/Python/process_1430928.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_1434938" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SGP/Python/process_1434938.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_1434948" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SGP/Python/process_1434948.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_1445378" type="PythonConfigurationType" factoryName="Python" activateToolWindowBeforeRun="false">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MAC/Python/process_1445378.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="process_1657908" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" temporary="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\kcachero\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SGP/Python/process_1657908.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Config" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SGP/Python/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.master_main" />
+      <item itemvalue="Python.process_1445378" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.process_1434938" />
+      <item itemvalue="Python.process_1434948" />
+      <item itemvalue="Python.process_1430928" />
+      <item itemvalue="Python.process_1657908" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.process_1657908" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.process_1430928" />
+        <item itemvalue="Python.process_1434948" />
+        <item itemvalue="Python.process_1434938" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66017db3-b438-4224-abad-38b233bd3d23" name="Default" comment="" />
+      <created>1540465227673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540465227673</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.22272047" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50436854" side_tool="true" weight="0.22577092" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.31364125" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3270925" />
+      <window_info id="Structure" order="1" sideWeight="0.50151974" side_tool="true" weight="0.20969023" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23127754" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49563146" weight="0.20484582" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919955" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49848023" visible="true" weight="0.2239873" />
+      <window_info id="Structure" order="1" sideWeight="0.50151974" side_tool="true" weight="0.20969023" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49921876" weight="0.31364125" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49563146" visible="true" weight="0.20484582" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23127754" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50436854" side_tool="true" weight="0.22577092" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32919955" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.3270925" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SGP/Python/process_1489578.py</url>
+          <line>358</line>
+          <option name="timeStamp" value="1199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SGP/Python/process_1486438.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SGP/Python/process_1486438.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="1201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SGP/Python/process_1486218.py</url>
+          <line>103</line>
+          <option name="timeStamp" value="1208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/SGP/Python/process_1486388.py</url>
+          <line>146</line>
+          <option name="timeStamp" value="1210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/process_1566078.py</url>
+          <line>31</line>
+          <option name="timeStamp" value="1211" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="1212" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="cellhtml.text" />
+        <watch expression="rngTable.Value" />
+        <watch expression="rngTable.Column" language="Python" />
+        <watch expression="str(scData).isdigit()" />
+        <watch expression="newdate.strftime('%m-%d-%Y')" />
+        <watch expression="varDate.strftime('%m-%d-%Y')" />
+        <watch expression="varDate.strftime('%m-%d-%Y')" />
+        <watch expression="varDate.strftime('%b-%d-%Y')" />
+        <watch expression="varDate.strftime('%m-%d-%Y')" />
+        <watch expression="scsht.Cells(rngTable.Row, start_col).Value" />
+        <watch expression="str(rngFind.Value).lower().find('preliminary')" />
+        <watch expression="idate" />
+        <watch expression="str(cellhtml.text).strip()" />
+        <watch expression="str(el.get_attribute(&quot;class&quot;)).strip()" />
+        <watch expression="str(el.get_attribute(&quot;innerText&quot;)).strip().lower()" />
+        <watch expression="tempstr" language="Python" />
+        <watch expression="str(scsht.Cells(rng.Row,ctr).Value).strip()" />
+        <watch expression="str(el.get_attribute('innerText')).strip().lower()" />
+        <watch expression="tmpdata.find('Annual Report')" />
+        <watch expression="el.get_attribute('href')).lower()" />
+        <watch expression="str(el.get_attribute('href'))" />
+        <watch expression="str(el.get_attribute('href')).strip()" />
+        <watch expression="tmpdata[0].strip()" />
+        <watch expression="tmpdata[0].strip()" />
+        <watch expression="tofind.split(delim)[0].strip()" />
+        <watch expression="len(arr)" />
+        <watch expression="scsht.UsedRange.Columns.Count" />
+        <watch expression="url + &quot;&amp;sortBy=time%20desc" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>idate=</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="watch">
+      <expression>
+        <expression-string>tempstr</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>rngTable.Column</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>dicttemp</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14180597.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14148497.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14468737.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/TEST-DOS/process_14144227.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/TEST-DOS/process_14146547.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14146547.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14144267.py" />
+    <entry file="file://$PROJECT_DIR$/Config/master_main.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14146627.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/TEST-DOS/process_1489778.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14143497.py" />
+    <entry file="file://$PROJECT_DIR$/Config/all_function.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14162747.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/TEST-DOS/process_14143167.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14148507.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14143947.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14162967.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14143167.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14146667.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14144197.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/models.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14143037.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14143327.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1434968.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/gen_template.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14519627.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1660448.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1656158.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_14401717.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/win32com/client/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/gen_py/3.6/00020813-0000-0000-C000-000000000046x0x1x8/Range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="688" selection-start-line="688" selection-end-line="688" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SAMPLES/process_1427078.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1815948.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1488898.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1488908.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1489048.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/1631035409/builtins.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1489528.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1489578.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1489758.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1489778.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1815958.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1486318.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1660438.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1486438.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1486388.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1486218.py" />
+    <entry file="file://$PROJECT_DIR$/SGP/Python/process_1486398.py" />
+    <entry file="file://$PROJECT_DIR$/process_13398737.py" />
+    <entry file="file://$PROJECT_DIR$/process_1566078.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
